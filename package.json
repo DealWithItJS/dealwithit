@@ -1,0 +1,16 @@
+{
+  "name": "dealwithit",
+  "version": "0.0.0-update-1",
+  "description": "Deal with runtime errors type-safe way",
+  "scripts": {
+  },
+  "keywords": [
+    "typescript",
+    "error",
+    "handling",
+    "try",
+    "catch"
+  ],
+  "author": "Krystian Sowinski",
+  "license": "MIT"
+}
